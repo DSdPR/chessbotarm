@@ -1,2 +1,2 @@
 # chessbotarm
-Automated cartesian robot with artificial vision to lay over your chessboard and play with you.
+Automated cartesian robot with computer vision to lay over your chessboard and play with you.
