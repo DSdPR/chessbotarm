@@ -5,3 +5,5 @@ Automated cartesian robot with computer vision to lay over your chessboard and p
 https://opencv-tutorial.readthedocs.io/en/latest/
 
 Chess piece image dataset: https://public.roboflow.com/object-detection/chess-full
+
+YOLOv5 repo and tutorials: https://github.com/ultralytics/yolov5
